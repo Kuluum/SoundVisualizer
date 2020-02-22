@@ -40,7 +40,7 @@
 		5979843B24015D4A00BC8CB1 = {
 			isa = PBXGroup;
 			children = (
-				5979844624015D4A00BC8CB1 /* SoundVisualuzer */,
+				5979844624015D4A00BC8CB1 /* SoundVisualizer */,
 				5979844524015D4A00BC8CB1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5979844624015D4A00BC8CB1 /* SoundVisualuzer */ = {
+		5979844624015D4A00BC8CB1 /* SoundVisualizer */ = {
 			isa = PBXGroup;
 			children = (
 				5979844724015D4A00BC8CB1 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				5979845224015D4C00BC8CB1 /* LaunchScreen.storyboard */,
 				5979845524015D4C00BC8CB1 /* Info.plist */,
 			);
-			path = SoundVisualuzer;
+			path = SoundVisualizer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -285,7 +285,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kuluum.SoundVisualuzer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kuluum.SoundVisualizer;
 				PRODUCT_NAME = SoundVisualizer;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,7 +305,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kuluum.SoundVisualuzer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kuluum.SoundVisualizer;
 				PRODUCT_NAME = SoundVisualizer;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

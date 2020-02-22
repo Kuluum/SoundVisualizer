@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5979844424015D4A00BC8CB1 /* SoundVisualuzer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoundVisualuzer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5979844424015D4A00BC8CB1 /* SoundVisualizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoundVisualizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5979844724015D4A00BC8CB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5979844924015D4A00BC8CB1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5979845024015D4C00BC8CB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		5979844524015D4A00BC8CB1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5979844424015D4A00BC8CB1 /* SoundVisualuzer.app */,
+				5979844424015D4A00BC8CB1 /* SoundVisualizer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5979844324015D4A00BC8CB1 /* SoundVisualuzer */ = {
+		5979844324015D4A00BC8CB1 /* SoundVisualizer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5979845824015D4C00BC8CB1 /* Build configuration list for PBXNativeTarget "SoundVisualuzer" */;
+			buildConfigurationList = 5979845824015D4C00BC8CB1 /* Build configuration list for PBXNativeTarget "SoundVisualizer" */;
 			buildPhases = (
 				5979844024015D4A00BC8CB1 /* Sources */,
 				5979844124015D4A00BC8CB1 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = SoundVisualuzer;
+			name = SoundVisualizer;
 			productName = SoundVisualuzer;
-			productReference = 5979844424015D4A00BC8CB1 /* SoundVisualuzer.app */;
+			productReference = 5979844424015D4A00BC8CB1 /* SoundVisualizer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5979843F24015D4A00BC8CB1 /* Build configuration list for PBXProject "SoundVisualuzer" */;
+			buildConfigurationList = 5979843F24015D4A00BC8CB1 /* Build configuration list for PBXProject "SoundVisualizer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5979844324015D4A00BC8CB1 /* SoundVisualuzer */,
+				5979844324015D4A00BC8CB1 /* SoundVisualizer */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +286,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuluum.SoundVisualuzer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SoundVisualizer;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -306,7 +306,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuluum.SoundVisualuzer;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SoundVisualizer;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5979843F24015D4A00BC8CB1 /* Build configuration list for PBXProject "SoundVisualuzer" */ = {
+		5979843F24015D4A00BC8CB1 /* Build configuration list for PBXProject "SoundVisualizer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5979845624015D4C00BC8CB1 /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5979845824015D4C00BC8CB1 /* Build configuration list for PBXNativeTarget "SoundVisualuzer" */ = {
+		5979845824015D4C00BC8CB1 /* Build configuration list for PBXNativeTarget "SoundVisualizer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5979845924015D4C00BC8CB1 /* Debug */,

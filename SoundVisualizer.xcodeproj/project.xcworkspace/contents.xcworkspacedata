@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SoundVisualuzer.xcodeproj">
+      location = "self:/Users/dnosov/Projects/SoundVisualuzer/SoundVisualizer.xcodeproj">
    </FileRef>
 </Workspace>
